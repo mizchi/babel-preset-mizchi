@@ -2,7 +2,7 @@ module.exports = {
   "presets": [
     "react",
     "flow"
-  },
+  ],
   "plugins": [
     "dynamic-import-webpack",
     "transform-decorators-legacy",
