@@ -1,12 +1,7 @@
 module.exports = {
-  "presets": [
-    "react",
-    "flow"
-  ],
   "plugins": [
-    "transform-decorators-legacy",
     "transform-class-properties",
-    "transform-runtime",
+    "transform-flow-comments",
     "transform-object-rest-spread"
   ]
 }
