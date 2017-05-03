@@ -6,7 +6,6 @@ module.exports = {
   "plugins": [
     "transform-decorators-legacy",
     "transform-class-properties",
-    "transform-runtime",
     "transform-object-rest-spread"
   ]
 }
